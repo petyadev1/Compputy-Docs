@@ -1,6 +1,12 @@
 # Compputy Docs
 My open-source document editor software made in C# .NET framework.
 
+[![Build Status][ico-travis]][link-travis]
+[![React Native][react_native-badge]][react_native-url]
+[![Android Platform][android_platform-badge]][android_platform-url]
+[![Android Studio][android_studio-badge]][android_studio-url]
+[![Codebeat][codebeat-badge]][codebeat-url]
+
 # Demo Images
 
 ![Tables](https://github.com/petyadev1/Compputy-Docs/blob/main/demo-img/Compputy%20Docs%202022.%2005.%2029.%2011_42_21.png?raw=true)
