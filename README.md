@@ -21,7 +21,9 @@ My open-source document editor software made in C# .NET framework.
 
 # Download installer
 
-- [Version 1.0.0 (English)](https://github.com/petyadev1/Compputy-Docs/tree/main/release)
+- [Version 1.0.0 (English)](https://github.com/petyadev1/Compputy-Docs/releases/tag/v1.0.0)
 
 # Support me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/petertill)
+
+
