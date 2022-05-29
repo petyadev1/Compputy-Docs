@@ -10,7 +10,8 @@ My open-source document editor software made in C# .NET framework.
 
 - [x] Fonts
 - [x] Text colors
-- [ ] Tables
+- [-] Tables
+- [-] Image and clipboard insert
 - [ ] Backround colors
 
 # Security updates
