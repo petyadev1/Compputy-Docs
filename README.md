@@ -1,6 +1,11 @@
 # Compputy Docs
 My open-source document editor software made in C# .NET framework.
 
+# Demo Images
+
+![Tables](https://github.com/petyadev1/Compputy-Docs/blob/main/demo-img/Compputy%20Docs%202022.%2005.%2029.%2011_42_21.png?raw=true)
+
+
 # To Do
 
 - [x] Fonts
