@@ -17,7 +17,14 @@ body:
       - label: I have searched the existing issues
         required: true
    - type: checkboxes
-     id: 
+    id: bug-type
+    attributes:
+      label: Where is the problem?
+      description: You can select here what type of bug did you see.
+      options:
+      - label: Build error
+      - label: Code error
+        required: true
   - type: textarea
     id: bug-description
     attributes:
