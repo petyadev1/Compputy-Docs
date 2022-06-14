@@ -1,8 +1,8 @@
-name: 🐛Bug Report
-description: File a bug report here
+name: 🐞Report Docs bugs
+description: You can report a bug here!
 title: "[BUG]: "
 labels: ["bug"]
-assignees: ["AnishDe12020"]
+assignees: ["petyadev1"]
 body:
   - type: markdown
     attributes:
