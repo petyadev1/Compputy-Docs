@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!!!
+        Thanks for supporting the development by sending bug reports!
   - type: checkboxes
     id: new-bug
     attributes:
@@ -16,6 +16,8 @@ body:
       options:
       - label: I have searched the existing issues
         required: true
+   - type: checkboxes
+     id: 
   - type: textarea
     id: bug-description
     attributes:
