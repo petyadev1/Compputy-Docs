@@ -1,5 +1,5 @@
 # Compputy Docs
-My open-source document editor software made in C# .NET framework. Something
+My open-source document editor software made in C# .NET framework. Something cool
 
 # Demo Images
 
